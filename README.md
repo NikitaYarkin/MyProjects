@@ -1,7 +1,7 @@
 # MyProjects
 Проекты созданные во время обучения.
 
-## Classification_1
+## Classification_1.ipynb
 
 ### Классификация.Часть 1.
 -Алгоритм КNN
