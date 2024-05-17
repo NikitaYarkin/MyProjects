@@ -3,9 +3,11 @@
 
 ## Stacking.inynb
 
+Техника стекинга
+
 ## XGBoost.inynb
 
-Техника стекинга
+
 
 Техника бустинга XGBoost
 
