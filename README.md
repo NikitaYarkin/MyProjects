@@ -1,11 +1,15 @@
 # MyProjects
 ## Тестовые задания и проекты созданные во время обучения.
 
-## Stacking.inynb
+## Kaggle.ipynb, Kaggle_1.ipynb
+
+Соревнование на Kaggle по датасету Титаник
+
+## Stacking.ipynb
 
 Техника стекинга
 
-## XGBoost.inynb
+## XGBoost.ipynb
 
 
 
